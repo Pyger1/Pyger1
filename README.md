@@ -38,10 +38,6 @@ I'm a first-year **Artificial Intelligence** student at **ITMO University**, pas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyger1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pyger1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🚀 Featured Projects
 
 **Currently building my portfolio!**
