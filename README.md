@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a first-year **Artificial Intelligence** student at **ITMO University**, passionate about building intelligent systems and exploring the frontiers of machine learning. Currently diving deep into AI engineering while sharpening my Python skills and working on exciting projects.
+I'm a first-year **Artificial Intelligence** student at **ITMO University**, passionate about building intelligent systems and exploring the frontiers of machine learning. Currently diving deep into AI engineering while sharpening my Python skills.
 
 - 🎓 Studying Computer Science with focus on AI/ML
-- 💻 Medium-level Python developer expanding into advanced AI tools
-- 🌱 Currently learning: Deep Learning, NLP, Computer Vision
+- 💻 Medium-level Python developer expanding into AI tools
+- 🌱 Currently learning: Algorithms, Deep Learning, Machine Learning
 - 🎯 Goal: Become a professional AI Engineer
-- 🧠 Interests: Neural Networks, LLMs, Data Science, Algorithms
+- 🧠 Interests: Neural Networks, LLMs, Data Science
 
 ## 🛠️ Tech Stack
 
@@ -36,10 +36,6 @@ I'm a first-year **Artificial Intelligence** student at **ITMO University**, pas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pyger1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyger1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyger1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
