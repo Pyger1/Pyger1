@@ -28,14 +28,19 @@ I'm a first-year **Artificial Intelligence** student at **ITMO University**, pas
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pyger1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyger1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pyger1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyger1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pyger1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
@@ -49,18 +54,6 @@ I'm actively seeking opportunities to contribute to exciting AI/ML projects. Ope
 - 💻 Open source contributions
 
 **Have an interesting project idea? Let's connect!**
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyger1&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pyger1&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
 
 ## 🤝 Connect With Me
 
