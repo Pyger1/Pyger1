@@ -55,6 +55,177 @@ I'm actively seeking opportunities to contribute to exciting AI/ML projects. Ope
 
 **Have an interesting project idea? Let's connect!**
 
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### AI For Everyone
+**DeepLearning.AI | Andrew Ng** • Sep 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/ai-for-everyone.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/ai-for-everyone.png?raw=true" alt="AI For Everyone" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/C98M69RWGL31)
+
+</td>
+<td align="center" width="50%">
+
+#### Linear Algebra for ML & Data Science
+**DeepLearning.AI** • Nov 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/linear-algebra-ml.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/linear-algebra-ml.png?raw=true" alt="Linear Algebra" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/4X0UY4W1H20V)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🐍 Python & Backend Development
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### Python for Everybody Specialization
+**University of Michigan** • Dec 2023
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/python-for-everybody.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/python-for-everybody.png?raw=true" alt="Python for Everybody" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/specialization/A36YBCM476YF)
+
+*5-course specialization: Python fundamentals, data structures, web data access, databases & data visualization*
+
+</td>
+<td align="center" width="50%">
+
+#### Django Web Framework
+**Meta** • Feb 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/django-web-framework.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/django-web-framework.png?raw=true" alt="Django" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/GWFZ6797LPRM)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗄️ Databases & Version Control
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### Introduction to Databases for Back-End
+**Meta** • Jan 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/databases-backend.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/databases-backend.png?raw=true" alt="Databases" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/ZT5FYD4MZXYF)
+
+</td>
+<td align="center" width="50%">
+
+#### Version Control (Git)
+**Meta** • Jan 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/version-control.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/version-control.png?raw=true" alt="Version Control" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/PPNPSS2LYZ9Y)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 IT Support & Networking
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### Technical Support Fundamentals
+**Google** • Oct 2023
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/technical-support-fundamentals.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/technical-support-fundamentals.png?raw=true" alt="Technical Support" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/MLJ63GDNX9RE)
+
+</td>
+<td align="center" width="50%">
+
+#### The Bits and Bytes of Computer Networking
+**Google** • Sep 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/computer-networking.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/computer-networking.png?raw=true" alt="Networking" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/VDPMNCO3G01C)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Digital Marketing
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### Foundations of Digital Marketing and E-commerce
+**Google** • Sep 2023
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/foundations-digital-marketing.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/foundations-digital-marketing.png?raw=true" alt="Digital Marketing Foundations" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/DHPYT3BNFUR5)
+
+</td>
+<td align="center" width="50%">
+
+#### Attract and Engage Customers with Digital Marketing
+**Google** • Feb 2024
+
+<a href="https://github.com/Pyger1/Pyger1/blob/main/certificates/pdf/digital-marketing.pdf">
+  <img src="https://github.com/Pyger1/Pyger1/blob/main/certificates/previews/digital-marketing.png?raw=true" alt="Digital Marketing" width="100%"/>
+</a>
+
+📜 [Verify on Coursera](https://coursera.org/verify/9JQEPFB255C5)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
